@@ -129,3 +129,4 @@
 	name = "ash coated foot wraps"
 	desc = "May hurt for less than normal legs."
 	icon_state = "rag"
+
